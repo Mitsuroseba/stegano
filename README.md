@@ -14,3 +14,6 @@ and the Flutter guide for
 Stegano
 
 More in tests.
+
+Refs:
+https://github.com/leocavalcante/encrypt/blob/5.x/lib/src/algorithms/aes.dart
